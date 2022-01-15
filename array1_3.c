@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main()
-{
+int main(){
 
   long long int arr[6];
   long long int sum = 0;
