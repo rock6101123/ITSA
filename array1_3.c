@@ -8,7 +8,7 @@ int main()
 
   for (int i = 0; i < 6; i++)
   {
-    scanf(" %lld", &arr[i]);
+    scanf("%lld", &arr[i]);
     sum += arr[i] * arr[i] * arr[i];
   }
   printf("%lld\n", sum);
